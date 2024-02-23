@@ -31,7 +31,7 @@ advdate <- function(obj, adv) {
  tmp <- paste("Hafta ",zadv,sep='',", ", tmon)
  return(tmp)
 }
-mon <- ymd(20241004)
+mon <- ymd(20240219)
 
 ```
 

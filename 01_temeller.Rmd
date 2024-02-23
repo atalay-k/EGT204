@@ -447,7 +447,7 @@ knitr::include_graphics("img/bilimislev.PNG")
 
 ## Bilimsel Araştırma
 
-- Yeni bir şey öğrenmek için **somut bir amaç**ile yapılır.
+- Yeni bir şey öğrenmek için **somut bir amaç* **ile yapılır.
 
 - Verilerin sistemleri bir şekilde toplanması 
 
