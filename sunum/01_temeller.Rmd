@@ -66,6 +66,15 @@ mon <- ymd(20220207)
 -   Bilimsel Araştırmalarda Bulunması Gerekenler
 
 ---
+# Bilimsel Araştırmaya Giriş. 
+
+.center[
+Biz bilim insanları kumsalda çakıl taşları arayan çocuklar gibiyizdir. Eğer ben, arkadaşlarımdan biraz daha fazla, biraz daha renkli çakıl taşları toplayabildiysem bunun nedeni dizlerime kadar suya girmeye cesaret edebilmiş olmamdır. - Isaac Newton
+
+Bir deney, bilimin doğaya sorduğu bir sorudur. Bir ölçüm ise, doğanın soruya verdiği cevaptır. - Max Planck
+]
+
+---
 ##   Bilgi Nedir? 
 
 **Türk Dil Kurumu (2020);**
@@ -210,7 +219,7 @@ mon <- ymd(20220207)
 
 - Bilim, her türlü düzenden yoksun **duyu verileri (algılar) ile mantıksal olarak düzenli düşünme arasında uygunluk sağlama çabasıdır (Einstein).**
 
-
+- Bilim; metodolojik, test ve tekrar edilebilir yöntemler kullanarak, bilinmeyeni bilinir kılma, gerçeğe ulaşma uğraşı olarak özetlenebilir. Bunun yapılabilmesini mümkün kılan, bilimin asırlar boyu elden geçirilmiş ve şahsi yargılardan arındırılmış metodolojisidir.
 --
 
 - Bilim, **gözlem ve gözleme dayalı akıl yürütme yoluyla önce dünyaya ilişkin olguları, sonra bu olguları birbirine bağlayan yasaları** bulma çabasıdır (Russell).
@@ -231,6 +240,15 @@ mon <- ymd(20220207)
 knitr::include_graphics("img/Bilim.PNG")
 ```
 
+
+--- 
+## Bilim Nedir?
+
+- Bilimsel süreç, doğal dünya hakkında güvenilir bilgiler inşa etmemizi sağlar.
+
+- Bu güvenirliğin kanıtlarını görmek için, bilimsel bilgi sayesinde ürettiğimiz ve etrafımızı saran sayısız alet, ürün ve edevata bakmak yeterlidir: uçaklardan antibiyotiklere, pillerden köprülere, cep telefonlarından uzay araçlarına her şey bilimin eseridir. 
+
+- Bunların çalışabilmesinin tek nedeni, bilimin çalışıyor olmasıdır
 ---
 ## Bilimsel Yöntem
 
@@ -506,6 +524,10 @@ Bilimsel Araştırma
 - `r emo::ji("link")`[Bilimin Temel Varsayımları?](https://evrimagaci.org/bilimin-temel-varsayimlari-bilim-gercek-arayisini-hangi-temel-varsayimlar-uzerine-insa-eder-8122)
 
 - `r emo::ji("link")`[Bilim Gerçekten Nasıl Çalışır?](https://evrimagaci.org/bilim-gercekten-nasil-calisir-hipotezler-ispatlaninca-teori-daha-da-ispatlaninca-kanun-olmazlar-5548)
+---
+
+
+![](img/bebek.jpg)
 ---
 
 ## Kaynaklar
