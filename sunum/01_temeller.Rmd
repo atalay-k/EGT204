@@ -66,12 +66,15 @@ mon <- ymd(20220207)
 -   Bilimsel Araştırmalarda Bulunması Gerekenler
 
 ---
-# Bilimsel Araştırmaya Giriş. 
 
 .center[
-Biz bilim insanları kumsalda çakıl taşları arayan çocuklar gibiyizdir. Eğer ben, arkadaşlarımdan biraz daha fazla, biraz daha renkli çakıl taşları toplayabildiysem bunun nedeni dizlerime kadar suya girmeye cesaret edebilmiş olmamdır. - Isaac Newton
+   
+      
+        
+        
+- Biz bilim insanları kumsalda çakıl taşları arayan çocuklar gibiyizdir. Eğer ben, arkadaşlarımdan biraz daha fazla, biraz daha renkli çakıl taşları toplayabildiysem bunun nedeni dizlerime kadar suya girmeye cesaret edebilmiş olmamdır. - **Isaac Newton**
 
-Bir deney, bilimin doğaya sorduğu bir sorudur. Bir ölçüm ise, doğanın soruya verdiği cevaptır. - Max Planck
+- Bir deney, bilimin doğaya sorduğu bir sorudur. Bir ölçüm ise, doğanın soruya verdiği cevaptır. - **Max Planck**
 ]
 
 ---
@@ -219,7 +222,9 @@ Bir deney, bilimin doğaya sorduğu bir sorudur. Bir ölçüm ise, doğanın sor
 
 - Bilim, her türlü düzenden yoksun **duyu verileri (algılar) ile mantıksal olarak düzenli düşünme arasında uygunluk sağlama çabasıdır (Einstein).**
 
-- Bilim; metodolojik, test ve tekrar edilebilir yöntemler kullanarak, bilinmeyeni bilinir kılma, gerçeğe ulaşma uğraşı olarak özetlenebilir. Bunun yapılabilmesini mümkün kılan, bilimin asırlar boyu elden geçirilmiş ve şahsi yargılardan arındırılmış metodolojisidir.
+- Bilim; metodolojik, test ve tekrar edilebilir yöntemler kullanarak, **bilinmeyeni bilinir kılma, gerçeğe ulaşma uğraşı olarak özetlenebilir.**
+
+- Bunun yapılabilmesini mümkün kılan, **bilimin asırlar boyu elden geçirilmiş ve şahsi yargılardan arındırılmış metodolojisidir.**
 --
 
 - Bilim, **gözlem ve gözleme dayalı akıl yürütme yoluyla önce dünyaya ilişkin olguları, sonra bu olguları birbirine bağlayan yasaları** bulma çabasıdır (Russell).
@@ -248,7 +253,8 @@ knitr::include_graphics("img/Bilim.PNG")
 
 - Bu güvenirliğin kanıtlarını görmek için, bilimsel bilgi sayesinde ürettiğimiz ve etrafımızı saran sayısız alet, ürün ve edevata bakmak yeterlidir: uçaklardan antibiyotiklere, pillerden köprülere, cep telefonlarından uzay araçlarına her şey bilimin eseridir. 
 
-- Bunların çalışabilmesinin tek nedeni, bilimin çalışıyor olmasıdır
+- Bunların çalışabilmesinin tek nedeni, bilimin çalışıyor olmasıdır.
+
 ---
 ## Bilimsel Yöntem
 
@@ -302,7 +308,7 @@ knitr::include_graphics("img/hipotez.PNG")
 ---
 ## Bilimsel Yöntem
 
-```{r echo=FALSE, fig.align='center',out.width="75%"}
+```{r echo=FALSE, fig.align='center',out.width="100%"}
 knitr::include_graphics("img/bilimselyontem.PNG")
 ```
 
@@ -315,7 +321,7 @@ Karasar, 2009’dan Şimşek (2019) tarafından uyarlanmıştır.
 
 --
 
-  - Kuram, olguları tanımlayan; 
+- Kuram, olguları tanımlayan; 
   
   - en az iki olgu arasında ilişki kuran; 
   
@@ -479,15 +485,9 @@ Bilimsel Araştırma
 
 - Kuramsal yapısı, değişkenleri ve **değişkenler arasındaki muhtemel ilişkiler** belirlenmelidir.
 
-
 - Araştırma **yöntemi** tespit edilmelidir.
-
 
 - Kuramsal yapısı, değişkenleri ve **değişkenler arasındaki muhtemel ilişkiler** belirlenmelidir.
-
-
-- Araştırma **yöntemi** tespit edilmelidir.
-
 
 - Araştırma yöntemine uygun **örneklem ve veri toplama araçları** belirlenerek veri toplanmalıdır.
 
