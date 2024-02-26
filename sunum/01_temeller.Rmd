@@ -419,6 +419,26 @@ knitr::include_graphics("img/bilimislev.PNG")
 
 - Bir nesne ya da olay ile ilgili istenilen yönde manipülasyonların gerçekleştirilmesidir. `r emo::ji('right')` KONTROL
 
+
+
+
+
+---
+## BİLİMİN TEMEL İŞLEVLERİ	
+
+- İlkokul öğrencilerinin argüman üretme becerileri üzerinde bilimsel bir araştırma yaptığımızı düşünelim bunun için önce argüman kavramını ve argüman üreten bireylerin özelliklerini tanımlamamız gerekir  - BETİMLEME
+
+--
+
+- yine kız öğrencilerin erkek öğrencilerden daha sağlam argüman ürettiklerini varsayalım bu durumda argüman üretme becerisi üzerinde etkili olan değişkenlerden birinin cinsiyet olduğunu söyleyebiliriz kız öğrencilerin daha sağlam argüman üretmesine neden olan durumları ortaya koymak bilimin açıklama amacının bir ürünüdür. - AÇIKLAMA
+
+--
+
+- pozitif yönde bir ilişkinin olduğunu varsayalım bu ilişkiyi bilen bir öğretmen başarısı yüksek öğrencilerin argüman üretme konusunda daha Yetkin olacağına yönelik bir tahminde bulunabilir. -  YORDAMA
+
+--
+
+- fen bilimleri dersinde öğrencilerin sağlam argüman üretmesini isteyen bir öğretmen bireylerin hangi durumlarda sağlam argüman üretebileceklerini bilmesi halinde Öğretim ortamını Buna göre düzenleyip argüman üretme becerisini artırıcı uygulamalar yapabilir-  KONTROL
 ---
 ## Araştırma Nedir?
 
