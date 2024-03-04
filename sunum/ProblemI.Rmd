@@ -249,6 +249,7 @@ l <- DiagrammeR::mermaid("
 - **Etik** (Farklı sıklıkta sigara içmeye maruz bırakılan kişilerin kansere yakalanma olasılıklarının karşılaştırılması !) 
 
 ---
+
 ## Araştırma problemini nasıl tanımlarız?
 
 **Giriş bilgisi:**  Araştırmanın temel değişkeni hakkında genel bilgiler verilerek probleminin bağlamı ve neden önemli olduğu açıklanır.  
