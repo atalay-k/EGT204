@@ -273,7 +273,7 @@ açısından kullanımı hakkındaki görüşleri nelerdir?**
 boyutu açısından kullanımı hakkındaki görüşleri nelerdir?**
 
 4. Sınıf öğretmenlerinin geleneksel ve alternatif ölçme araçlarının **sınıf mevcudu
-boyutu açısından kullanımı hakkındaki görüşleri nelerdir?**
+boyutu açısından kullanımı hakkındaki görüşleri nelerdir?**  
 
 5. Sınıf öğretmenlerinin geleneksel ve alternatif ölçme araçlarının **uygulama
 boyutu açısından kullanımı hakkındaki görüşleri nelerdir?**  `r emo::ji("link")`[(Acar, 2008)](https://dergipark.org.tr/en/download/article-file/146332). 
@@ -633,11 +633,6 @@ boyutu açısından kullanımı hakkındaki görüşleri nelerdir?**  `r emo::ji
 
 - PISA: Uluslararası Öğrenci Durum Belirleme Programı
 
-----
-
-## Kendimizi Sınayalım
-
-´r emo::ji(link)´[Degisken Türleri calisma kagidi](Degisken Türleri.pdf)
 ---
 ## Yararlanılan Kaynaklar
 
