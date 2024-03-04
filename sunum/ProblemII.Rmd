@@ -638,7 +638,7 @@ boyutu açısından kullanımı hakkındaki görüşleri nelerdir?**  `r emo::ji
 
 - Acar, M. (2008). **Sınıf öğretmenlerinin yeni ölçme ve değerlendirme yöntemlerine ilişkin yeterlikleri**. Ankara: Hacettepe Üniversitesi Sosyal Bilimler Enstitüsü Yüksek Lisans Tezi. 
 
-- Büyüköztürk, Ş., Çakmak E. K., Akgün, Ö. E., Karadeniz, Ş., Demirel, F. (2020). Eğitimde Bilimsel Araştırma Yöntemleri (28. Baskı), Ankara: Pegema Yayıncılık.
+- Büyüköztürk, Ş., Çakmak E. K., Akgün, Ö. E., Karadeniz, Ş., Demirel, F. (2020). Eğitimde Bilimsel Araştırma Yöntemleri (28. Baskı), Ankara: Pegema Yayıncılık
 
 ---
 ## Yararlanılan Kaynaklar
