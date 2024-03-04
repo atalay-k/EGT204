@@ -258,11 +258,11 @@ knitr::include_graphics("img/Bilim.PNG")
 ---
 ## Bilimsel Yöntem
 
-- **Bacon** tarafından geliştirilen `r emo::ji('right')` Tümevarım Empirizm (deneycilik), gerçek bilgiye duyular sayesinde ve **tümevarım** aracılığıyla ulaşılabileceğini savunur.
+- **Bacon** tarafından geliştirilen `r emo::ji('right')` Tümevarım Empirizm (deneycilik), gerçek bilgiye **duyular sayesinde** ve **tümevarım** aracılığıyla ulaşılabileceğini savunur.
 
 --
 
-- **Aristo** tarafından kavramsallaştırılan `r emo::ji('right')`  Tümdengelim Rasyonalizm (akılcılık), bilginin asıl kaynağının akıl olduğunu ve **tümdengelim** aracılığıyla elde edilebileceğini savunur.
+- **Aristo** tarafından kavramsallaştırılan `r emo::ji('right')`  Tümdengelim Rasyonalizm (akılcılık), bilginin asıl kaynağının **akıl** olduğunu ve **tümdengelim** aracılığıyla elde edilebileceğini savunur.
 süreçlerinin sentezidir. 
 
 ```{r echo=FALSE, fig.align='center',out.width="40%"}
@@ -506,8 +506,6 @@ Bilimsel Araştırma
 - Kuramsal yapısı, değişkenleri ve **değişkenler arasındaki muhtemel ilişkiler** belirlenmelidir.
 
 - Araştırma **yöntemi** tespit edilmelidir.
-
-- Kuramsal yapısı, değişkenleri ve **değişkenler arasındaki muhtemel ilişkiler** belirlenmelidir.
 
 - Araştırma yöntemine uygun **örneklem ve veri toplama araçları** belirlenerek veri toplanmalıdır.
 
