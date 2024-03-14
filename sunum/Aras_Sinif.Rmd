@@ -2,7 +2,7 @@
 title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: " <br> `r emo::ji('graph')` Araştırmaların Sınıflandırılması"
 author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
-date: "Hafta 10 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
+date: "2023-2024 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -19,8 +19,8 @@ output:
         </div>
 ---
 
-# ```{r child = "../setup.Rmd"}
-# ```
+```{r child = "../setup.Rmd"}
+```
 
 ```{r set-theme, include=FALSE}
 library(emoji)
@@ -40,15 +40,7 @@ style_duo_accent(
 ---
 ## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
 
-- Araştırma deseni
-  - İç geçerlik
-  - Dış geçerlik
 
-- Tarama desenleri
-
-- Korelasyonel desenler
-
----
 ## Araştırma deseni
 
 - **Araştırmanın sorularını cevaplamak ya da hipotezlerini test etmek amacıyla araştırmacı tarafından geliştirilen bir plandır. **
@@ -57,14 +49,14 @@ style_duo_accent(
 
 - **Olaylara nasıl bakıldığını** (pozitivist, constructivist, pragmatist) ortaya koyar.
 
----
-## Araştırmalarda iç ve dış geçerlik
+<!-- --- -->
+<!-- ## Araştırmalarda iç ve dış geçerlik -->
 
-- Araştırmanın sonuçlarının deneklerin seçildiği büyük gruplara, **evrene genellenebilirlik derecesi dış geçerliktir.**
+<!-- - Araştırmanın sonuçlarının deneklerin seçildiği büyük gruplara, **evrene genellenebilirlik derecesi dış geçerliktir.** -->
 
-- **İç geçerlik**, yordayıcı ilişkilerin analizinde ve özellikle deneysel çalışmalarda esastır.
+<!-- - **İç geçerlik**, yordayıcı ilişkilerin analizinde ve özellikle deneysel çalışmalarda esastır. -->
 
-- İç geçerlik, **bağımlı değişkende gözlenen değişmelerin, bağımsız değişkenle açıklanabilirlik derecesidir.**
+<!-- - İç geçerlik, **bağımlı değişkende gözlenen değişmelerin, bağımsız değişkenle açıklanabilirlik derecesidir.** -->
 
 ---
 ## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
@@ -79,12 +71,80 @@ style_duo_accent(
 
 -   Deneysel ve Deneysel Olmayan Araştırmalar
 
+
+---
+##   Temel ve Uygulamalı Araştırmaları
+
+
+- temel araştırmalar yeni teorilerin geliştirilmesi amaçlar.
+
+- temel araştırmaların doğrudan gerçek yaşam problemlerini çözüm üretme 
+gibi bir hedefleri yoktur 
+    - Genetik bozukluklar ve kalıtsal hastalıkları daha iyi anlayabilmek için 
+    fareler üzerinde yapılan çalışmalar 
+    - kısa süreli bellek ile uzun süreli belleğin kapasitlerinin karşılaştırılması 
+    - stresin hafızı üzerindeki etkisinin test edilmesi 
+    
+- uygulamalı araştırmalar çoğunlukla temel araştırmalarda ulaşılan bilgiler 
+üzerine inşa edilir kimi zaman da bunun tam tersi yaşanabilir.
+
+- Bu bakımdan uygulamalı araştırmalar bazen yeni teorilerin geliştirilmesine
+öncülük edebilir.
+
+
+---
+##   Laboratuar ve Saha Araştırmaları
+
+- laboratuvar çalışmaları araştırma için özel olarak tasarlanmış ortamlarda yapılır
+
+- araştırmacıya yüksek bir kontrol imkanı verir sonuçları hata karışmasına yol açabilecek faktörler minimum düzeyde tutulabilir 
+
+- saha araştırmaları ise sıkı kontrollerin yer aldığı ortamlarda yapılmaz 
+
+- olaylar, olgular, Kişiler kendi doğal ortamında incelenir. Örneğin okul sınıf spor salonu
+
+---
+## Anlık ve Boylamsal Araştırmaları
+
+- anlık araştırmalarda katılımcılardan tek bir anda veri toplanır 
+
+- boylamsal araştırmalarda ise aynı kişiler uzun bir süre takip edilir ve bu süre zarfında bireylerden belli aralıklarda birkaç kez veri toplanır 
+
+- hem boylamsal hem de anlık araştırmaların kendilerine göre birtakım güçlü ve zayıf yönleri vardır.
+
+- boylamsal araştırmaların en güçlü yanı incelenen olayın olgunun zaman içerisindeki değişimine dahi geçerliliği ve güvenilirliği yüksek sonuçlar üretebilmesidir.  fakat boylamsal çalışmalarda veri toplama işi zordur, fazla emek ve maliyet gerektirir 
+
+- anlık çalışmaları ise değişkenlerin sadece anlık görüntüsünü sunması ve zaman içerisinde bilgi vermemesi gibi dezavantajlarına karşı düşük maliyet ve az emek gerektirir.
+
+
+---
+## Kavramsal ve Ampirik
+
+
+- kavramsal araştırmacılar çoğunlukla felsefeciler ve düşünürler tarafından kullanılır bu araştırmalarda amaç alanyazındaki çalışmalara ait bulguları ve mevcut teorileri kullanarak yeni bir bakış açısı ortaya koymak ve fikirler üretmektir 
+
+- ampirik çalışmaları ise veriye dayanır.
+
+
+---
+## Deneysel ve Deneysel Olmayan Araştırmalar
+
+-  **Deney birtakım şartların değiştirilerek onların bir şeye etkisini gözlemleyerek** öğrenme yoludur. Deneyler **sebep-sonuç** ilişkisini yorumlayabilmek için
+yapılır.
+
+-   Neden-sonuç ilişkilerini belirlemeye çalışmak amacıyla doğrudan araştırmacının kontrolü altında, gözlenmek istenen verilerin üretildiği araştırma modelleridir.
+  
+-  Deneysel modelleri diğer tüm araştırma modellerinden ayıran özelliği, **araştırmacının bağımsız değişkeni manipüle edebilmesidir. **
+
+
 ---
 ## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
 -   Nicel ve Nitel Araştırmalar
 
   -   Nicel Araştırmalar
       -   Tarama Araştırması
+          - Nedensel Karşılşatırma
+          - Korelasyonel Araştırma
       -   Deneysel Araştırma
       -   Meta Analiz 
       
@@ -131,8 +191,11 @@ style_duo_accent(
 
 - **Nicel** araştırmalar değişkenler arasındaki **ilişkileri kanıtlamaya çalışır** ve bu tür ilişkilerin nedenlerini arar ve bazen açıklar.
 
+- Nicel araştırmalar çoğunlukla ne kadar ne düzeyde gibi sorulara cevap arar.
+
 - **Nitel araştırmalar,** durumları ve olayları katılımcıların bakış açılarından anlamaya çalışır. **Katılımcıların doğrudan araştırmanın içinde** yer alması söz konusudur.
 
+- Nitel araştırmalarniçin nasıl ne şekilde sorularına cevap arar.
 
 ---
 ##  Nicel Araştırmalar

@@ -74,15 +74,8 @@ style_duo_accent(
 | Doğal ortam                                                       | Yapay ortam                                                               |
 |                                                                   |                                                                           |
 
----
-# Deneysel Modeller
 
--  **Deney birtakım şartların değiştirilerek onların bir şeye etkisini gözlemleyerek** öğrenme yoludur. Deneyler **sebep-sonuç** ilişkisini yorumlayabilmek için
-yapılır.
 
--   Neden-sonuç ilişkilerini belirlemeye çalışmak amacıyla doğrudan araştırmacının kontrolü altında, gözlenmek istenen verilerin üretildiği araştırma modelleridir.
-  
--  Deneysel modelleri diğer tüm araştırma modellerinden ayıran özelliği, **araştırmacının bağımsız değişkeni manipüle edebilmesidir. **
 
 ---
 # Deneysel Modeller
