@@ -227,6 +227,7 @@ knitr::include_graphics("img/olcme_tur.png")
 knitr::include_graphics("img/olcektur.png")
 ```
 
+
 ```{r eval=FALSE, include=FALSE}
 my_graphviz <- grViz("digraph{
                      graph[rankdir = TB]
@@ -329,7 +330,7 @@ my_graphviz
 
 |               | **Zeynep** | **Aras** | **Elif** | **Deniz** |
 |---------------|------------|----------|----------|-----------|
-|  Oranlı   | 185 cm     | 165 cm   | 100 cm   | 85 cm     |
+|  Oranlı   | 180 cm     | 160 cm   | 140 cm   | 90 cm     |
 |  Aralıklı | 85         | 65       | 45       | 15        |
 | Sıralama      | 1\.        | 2\.      | 3\.      | 4\.       |
 | Sınıflama     | Uzun       | Uzun     | Kısa     | Kısa      |
