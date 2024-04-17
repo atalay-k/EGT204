@@ -2,7 +2,7 @@
 title: "`r emo::ji('muscle')` EGİTİMDE ARAŞTIRMA YÖNTEMLERİ"
 subtitle: " <br> `r emo::ji('graph')` Araştırmaların Sınıflandırılması"
 author: "<br> <br> `r emo::ji('woman_teacher')` Dr. Kübra ATALAY KABASAKAL <br> Hacettepe Üniversitesi"
-date: "2024 <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
+date: "2023-2024  <br> <br> <br> <br>`r emo::ji('e-mail')` katalay@hacettepe.edu.tr"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -38,20 +38,12 @@ style_duo_accent(
 ```
 
 ---
-## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
 
-
-
----
-## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
-
-- Araştırma deseni
-  - İç geçerlik
-  - Dış geçerlik
-
-- Tarama desenleri
-
-- Korelasyonel desenler
+## Örnekleme Yöntemleri .huge[`r emo::ji("stats")`]
+  
+  .hand[İçerik...]
+-  Araştırmaların Sınıflandırılması
+-   Nicel ve Nitel Araştırmalar
 
 ---
 ## Araştırma deseni
@@ -63,17 +55,6 @@ style_duo_accent(
 - **Olaylara nasıl bakıldığını** (pozitivist, constructivist, pragmatist) ortaya koyar.
 
 ---
-## Araştırmalarda iç ve dış geçerlik
-
-- Araştırmanın sonuçlarının deneklerin seçildiği büyük gruplara, **evrene genellenebilirlik derecesi dış geçerliktir.**
-
-- **İç geçerlik**, yordayıcı ilişkilerin analizinde ve özellikle deneysel çalışmalarda esastır.
-
-- İç geçerlik, **bağımlı değişkende gözlenen değişmelerin, bağımsız değişkenle açıklanabilirlik derecesidir.**
-
-
-
-
 ## Araştırma deseni
 
 - **Araştırmanın sorularını cevaplamak ya da hipotezlerini test etmek amacıyla araştırmacı tarafından geliştirilen bir plandır. **
@@ -82,14 +63,22 @@ style_duo_accent(
 
 - **Olaylara nasıl bakıldığını** (pozitivist, constructivist, pragmatist) ortaya koyar.
 
-<!-- --- -->
-<!-- ## Araştırmalarda iç ve dış geçerlik -->
 
-<!-- - Araştırmanın sonuçlarının deneklerin seçildiği büyük gruplara, **evrene genellenebilirlik derecesi dış geçerliktir.** -->
+---
+## Bilimsel Araştırmaların Sınıflanması
 
-<!-- - **İç geçerlik**, yordayıcı ilişkilerin analizinde ve özellikle deneysel çalışmalarda esastır. -->
+- Farklı sınıflamalar bulunmaktadır (Büyüköztürk, Çakmak, Akgün, Karadeniz, & Demirel, 2008; Karasar, 2003; Şekercioğlu, 2011/2015)
 
-<!-- - İç geçerlik, **bağımlı değişkende gözlenen değişmelerin, bağımsız değişkenle açıklanabilirlik derecesidir.** -->
+- Uygulama/Düzey açısından
+    - Temel
+    - Uygulamalı
+- Amaç açısından 
+    - Betimsel, 
+    - İlişkisel
+    - Açımlayıcı/Keşfedici
+- Kullanılan inceleme yöntemine/ verinin türüne göre 
+     - Nitel
+     - Nicel
 
 ---
 ## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
@@ -172,7 +161,8 @@ yapılır.
 
 ---
 ## Araştırmaların Sınıflandırılması .huge[`r emo::ji("stats")`]
--   Nicel ve Nitel Araştırmalar
+   
+- Varsayımları doğrulama ya da mevcut durumu belirleme yaklaşımlarına göre **nicel-nitel** araştırmalar olarak gruplandırılabilir
 
   -   Nicel Araştırmalar
       -   Tarama Araştırması
@@ -180,42 +170,14 @@ yapılır.
           - Korelasyonel Araştırma
       -   Deneysel Araştırma
       -   Meta Analiz 
-      
   -   Nitel Araşatırma Desenleri
       -   İçerik Analizi
       -   Eylem Araştırması
       -   Durum Araştırması
-      
 -   Karma Yöntem Araştırmaları
 
----
-## Bilimsel Araştırmaların Sınıflanması
 
-- Yapıldıkları çevreye göre, **labrotuvar ve saha (alan)** araştırmaları;
 
-- Düzeylerine göre **kuramsal ve uygulamalı** araştırmalar; 
-
-- Yönteme göre tarihi, **betimsel ve deneysel** araştırmalar; 
-
-- Kontrol özelliğine göre **survey ve deneysel** araştırmalar
-
-- Varsayımları doğrulama ya da mevcut durumu belirleme yaklaşımlarına göre **nicel-nitel** araştırmalar olarak gruplandırılabilir
-
----
-## Bilimsel Araştırmaların Sınıflanması
-
-- Farklı sınıflamalar bulunmaktadır (Büyüköztürk, Çakmak, Akgün, Karadeniz, & Demirel, 2008; Karasar, 2003; Şekercioğlu, 2011/2015)
-
-- Uygulama/Düzey açısından
-  - Temel
-  - Uygulamalı
-- Amaç açısından 
-    - Betimsel, 
-    - İlişkisel
-    - Açımlayıcı/Keşfedici
-- Kullanılan inceleme yöntemine/ verinin türüne göre 
-     - Nitel
-     - Nicel
 
 
 
@@ -229,6 +191,15 @@ yapılır.
 - **Nitel araştırmalar,** durumları ve olayları katılımcıların bakış açılarından anlamaya çalışır. **Katılımcıların doğrudan araştırmanın içinde** yer alması söz konusudur.
 
 - Nitel araştırmalarniçin nasıl ne şekilde sorularına cevap arar.
+
+---
+## Araştırmalarda iç ve dış geçerlik
+
+- Araştırmanın sonuçlarının deneklerin seçildiği büyük gruplara, **evrene genellenebilirlik derecesi dış geçerliktir.**
+
+- **İç geçerlik**, yordayıcı ilişkilerin analizinde ve özellikle deneysel çalışmalarda esastır.
+
+- İç geçerlik, **bağımlı değişkende gözlenen değişmelerin, bağımsız değişkenle açıklanabilirlik derecesidir.**
 
 ---
 ##  Nicel Araştırmalar
@@ -422,6 +393,17 @@ knitr::include_graphics("img/korarastirma_3.PNG")
 
 
 ---
+## Nedensel Karşılaştırma  Araştırması
+
+- İnsan grupları arasındaki **farklılıkların** nedenlerini ve sonuçlarını koşullar ve katılımcılar üzerinde herhangi bir müdahale olmaksızın belirlemeyi amaçlar, 
+
+- Ancak farklılığa sebep olan faktörün neden olduğunu **kesin bir ifade ile söyleyemez. Olası** nedenleri belirleme konusunda değerlidir. 
+
+- **EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türleri bölümlere göre farklılık göstermekte midir?**
+
+
+
+---
 
 ## Nitel Araştırmalar
 
@@ -458,18 +440,24 @@ knitr::include_graphics("img/korarastirma_3.PNG")
 
 - Nicel araştırmalarda veriler evreni temsil edecek biçimde seçilen bir örneklemden elde edilirler. 
 
-- Bu durum, araştırma sonuçlarının evrene genellenebilmesini sağlar. Nitel araştırmalar ise, genellikle örneklem seçme kurallarına uyulmaksızın, küçük gruplar üzerinde yürütülür. Nitel araştırma sonuçları çalışma grubu hakkında derinlemesine bilgi verirler ama araştırma sonuçları evrene genellenemez. 
+- Bu durum, araştırma sonuçlarının evrene genellenebilmesini sağlar. Nitel araştırmalar ise, genellikle örneklem seçme kurallarına uyulmaksızın, küçük gruplar üzerinde yürütülür. 
+
+- Nitel araştırma sonuçları çalışma grubu hakkında derinlemesine bilgi verirler ama araştırma sonuçları evrene genellenemez. 
 
 ---
 ## Nitel Araştırmalar
 
-- Nicel araştırmalara tipik örnek deneysel araştırmalar; nitel araştırmalara tipik örnek ise durum çalışması (case studies) dır. Bu iki tipik araştırma dışında, nicel-nitel boyutunda pek çok araştırma türü yer alabilir. Her iki araştırma yaklaşımının özelliklerini taşıyan araştırmalar da olabilir. Betimsel araştırmalar, başlangıçta bir hipotezi olmaması nedeniyle nitel araştırmalara benzer. Ancak araştırmacı, tanımladığı bir evrenden uygun bir örneklem seçerek araştırmasını yürütürse, araştırması nicel bir boyut taşır. 
+- Nicel araştırmalara tipik örnek deneysel araştırmalar; nitel araştırmalara tipik örnek ise durum çalışması (case studies) dır. 
+
+- Bu iki tipik araştırma dışında, nicel-nitel boyutunda pek çok araştırma türü yer alabilir. Her iki araştırma yaklaşımının özelliklerini taşıyan araştırmalar da olabilir. 
+
+- Betimsel araştırmalar, başlangıçta bir hipotezi olmaması nedeniyle nitel araştırmalara benzer. Ancak araştırmacı, tanımladığı bir evrenden uygun bir örneklem seçerek araştırmasını yürütürse, araştırması nicel bir boyut taşır. 
 
 ---
 ## Nitel Araştırmalar
 
 
-- Yıldırım ve Şimşek (2006) nitel araştırmayı “gözlem, görüşme ve doküman analizi gibi nitel veri toplama yöntemlerinin kullanıldığı, algıların ve olayların doğal ortamda gerçekçi ve bütüncü bir biçimde ortaya konulmasına yönelik nitel bir sürecin izlendiği araştırma” olarak tanımlamaktadır (s.39). 
+- Yıldırım ve Şimşek (2006) nitel araştırmayı **gözlem, görüşme ve doküman analizi gibi nitel veri toplama yöntemlerinin kullanıldığı, algıların ve olayların doğal ortamda gerçekçi ve bütüncü bir biçimde ortaya konulmasına yönelik nitel bir sürecin izlendiği araştırma** olarak tanımlamaktadır (s.39). 
 
 ---
 ##  Nicel ve Nitel Araştırmanın Karşılaştırılması
@@ -537,9 +525,6 @@ knitr::include_graphics("img/korarastirma_3.PNG")
 - **Doğrudan** gözlemlemek ve bu gözlemlere dayanarak betimleme yapmak,
 Gözlem, görüşme
 
-- Eğitimde araştırma yöntemleri dersi ???
-
----
 ## Tarihi Araştırma
 
 - Geçmişte ne oldu?,
@@ -556,9 +541,6 @@ Doğruluğun sağlanması önemli bir sorun
 
 - Genellemelere en az önem veren araştırmadır. 
 
----
-## Eylem Araştırması
-
 
 - Sınıfındaki öğrencilerin bilimsel süreç becerilerinin yeterli düzeyde gelişmediğini gözlemlemek isteyen bir öğretmenin bu soruna çözüm olarak kullanabileceği en uygun yöntemi bulması!!
 
@@ -572,8 +554,6 @@ Doğruluğun sağlanması önemli bir sorun
 
 - **Kesin** ve **genellenebilir** sonuçlar elde edilemeyebilir,
 
----
-## Olgubilim Çalışmaları
 
 - Olgubilim Çalışmaları
 Kız öğrencilerin düşük okullaşma oranı - Olgu
@@ -629,17 +609,6 @@ Okul müdürünün, Okul Aile Birliğinin çalışmaları sırasında yaşadıkl
 
 - Deneyimler **yazılı ya da sözlü** olarak **hikaye edilerek** toplanır.  
 
----
-
-
----
-## Nedensel Karşılaştırma  Araştırması
-
-- İnsan grupları arasındaki **farklılıkların** nedenlerini ve sonuçlarını koşullar ve katılımcılar üzerinde herhangi bir müdahale olmaksızın belirlemeyi amaçlar, 
-
-- Ancak farklılığa sebep olan faktörün neden olduğunu **kesin bir ifade ile söyleyemez. Olası** nedenleri belirleme konusunda değerlidir. 
-
-- **EGT204-04 şubesindeki öğrencilerin en çok sevdikleri kitap türleri bölümlere göre farklılık göstermekte midir?**
 
 
 ---

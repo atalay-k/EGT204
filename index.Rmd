@@ -148,17 +148,10 @@ sizlere gelen bildirimleri takip ediniz.
 
 ## `r advdate(mon, 6)`: [Araştırmaların Sınıflandırılması](sunum/05_Siniflandirma.html)
 
--   Nicel Araştırmalar
-  -   Tarama Araştırması
-  -   Korelasyon Araştırması
-  -   Nedensel Araştırma
--   Deneysel Araştırmalar ve Türleri
+-   Nicel  Araştırma 
+-   Nitel  Araştırma 
 -   Nicel ve Nitel Araştırma Farkları
--   Nitel Araşatırma Aşamaları
-  -   Karma Desenler
-  -   İçerik Analizi
-  -   Eylem Araştırması
-  -   Durum Araştırması
+-   Deneysel Araştırmalar
   
 ## `r advdate(mon, 7)`: [Veri Toplama Araçları I](sunum/VeriToplama-nicel.html)
 
